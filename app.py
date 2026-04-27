@@ -2,9 +2,7 @@ import streamlit as st
 import fitz  
 import json
 import requests
-from dotenv import load_dotenv
-import os 
-load_dotenv()
+import os
 
 # Page config 
 st.set_page_config(
